@@ -270,6 +270,7 @@ body.lock {
   background-image: -webkit-linear-gradient(top, #6dffc6 1%, #3fd2ce 99%);
   background-image: -o-linear-gradient(top, #6dffc6 1%, #3fd2ce 99%);
   background-image: linear-gradient(to bottom, #6dffc6 1%, #3fd2ce 99%);
+  background: url(../img/bg.png) center/cover no-repeat;
 }
 
 .main-header__title {
@@ -567,6 +568,7 @@ body.ie .ibg img {
   background-image: -webkit-linear-gradient(277.81deg, #ff6c54 1%, #ff2b59 99%);
   background-image: -o-linear-gradient(277.81deg, #ff6c54 1%, #ff2b59 99%);
   background-image: linear-gradient(-187.81deg, #ff6c54 1%, #ff2b59 99%);
+  background: url(../img/bg.png) center/cover no-repeat;
   padding-top: 91px;
   overflow: hidden;
 }
@@ -682,6 +684,7 @@ body.ie .ibg img {
   background-image: -webkit-linear-gradient(286.03deg, #6dffc6 1%, #3fd2ce 99%);
   background-image: -o-linear-gradient(286.03deg, #6dffc6 1%, #3fd2ce 99%);
   background-image: linear-gradient(-196.03deg, #6dffc6 1%, #3fd2ce 99%);
+  background: url(../img/bg2.png) center/cover no-repeat;
   padding: 88px 0px 69px 0px;
 }
 
@@ -1006,6 +1009,7 @@ body.ie .ibg img {
   background-image: -webkit-linear-gradient(top, #ff6c54 1%, #ff2b59 99%);
   background-image: -o-linear-gradient(top, #ff6c54 1%, #ff2b59 99%);
   background-image: linear-gradient(to bottom, #ff6c54 1%, #ff2b59 99%);
+  background: url(../img/bg.png) center/cover no-repeat;
 }
 
 .slider__circle {
@@ -1172,6 +1176,7 @@ body.ie .ibg img {
   background-image: -webkit-linear-gradient(283.96deg, #6dffc6 1%, #3fd2ce 99%);
   background-image: -o-linear-gradient(283.96deg, #6dffc6 1%, #3fd2ce 99%);
   background-image: linear-gradient(-193.96deg, #6dffc6 1%, #3fd2ce 99%);
+  background: url(../img/bg2.png) center/cover no-repeat;
   padding: 125px 0 0 0;
 }
 
@@ -1339,6 +1344,7 @@ body.ie .ibg img {
   background-image: -webkit-linear-gradient(275.8deg, #ff6c54 1%, #ff2b59 99%);
   background-image: -o-linear-gradient(275.8deg, #ff6c54 1%, #ff2b59 99%);
   background-image: linear-gradient(-185.8deg, #ff6c54 1%, #ff2b59 99%);
+  background: url(../img/bg.png) center/cover no-repeat;
   padding: 86px 0 90px 0;
 }
 
